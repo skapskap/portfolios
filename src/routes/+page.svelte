@@ -1,10 +1,8 @@
 <script lang="ts">
 	import Nav from '$lib/Components/Nav.svelte';
-	import Nav2 from '$lib/Components/Nav2.svelte';
 	import Skills from '$lib/Components/Skills.svelte';
 </script>
 
-<!-- <Nav2 /> -->
 <Nav />
 
 <div
